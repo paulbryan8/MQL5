@@ -1,7 +1,7 @@
 
 // Verifica se é uma nova barra
-    if (isNewBar())    //COLOCAR NO INICIO DA ONTICK, RESTANTE DO CÓDIGO COLOCAR DEPOIS DA ONTICK
-
+    if (isNewBar())    
+{                      //COLOCAR ATÉ AQUI NO INICIO DA ONTICK, RESTANTE DO CÓDIGO COLOCAR DEPOIS DA ONTICK
 
 // Função isNewBar: Verifica se é uma nova barra
 bool isNewBar()
