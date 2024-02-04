@@ -1,0 +1,2 @@
+ // Verifica se há posições abertas
+    if (PositionsTotal() == 0)
